@@ -13,7 +13,7 @@ Creator of **Solvyr™**, the AI engine powering Sunrise Software's next-generat
 
 Building production-ready AI tools including:
 - ⚡ **Auto-Triage** — intelligent ticket categorisation and routing
-- 📝 **Smart Resolutions** — AI-suggested fixes and responses
+- 📝 **Smart Resolution** — AI-suggested fixes and responses
 - 📚 **Knowledge Creator** — automated documentation from resolved incidents
 - 🧠 **Complaint & Root-Cause Analysis** — AI-driven insights for service improvement
 - 🔍 **Vector-Search RAG Systems** — semantic search using Azure AI Search
