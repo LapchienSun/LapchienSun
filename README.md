@@ -1,120 +1,97 @@
-# 👋 Hi, I'm Chris
+# Chris Carswell
 
-**Technical Operations Leader • AI Engineer • SaaS Modernisation Lead**
-
-Building AI-powered ITSM tools • Driving cloud transformation • Designing practical, scalable engineering for the real world.
-
----
-
-## ⭐ High-Impact Highlights
-
-- 🚨 Delivered the first fully successful DR test of SaaS platform  
-- 🤖 Created **Solvyr™**, the AI engine powering next-generation ITSM features  
-- ⚙️ Modernised critical legacy systems across infrastructure, data, and application layers  
-- ☁️ Leading the strategic transformation of Sunrise’s SaaS platform toward Microsoft Azure  
-- 📉 Reduced operational complexity and cost through targeted architectural improvement  
-- 🧩 Built multi-domain AI tools used daily across ITSM, field services, and customer operations  
+### Technical Operations & AI Leader  
+*Cloud • SaaS • Service Operations • Applied AI*
 
 ---
 
-## 🤖 AI & Automation
+## 👋 About
 
-Creator of **Solvyr™**, the AI engine used across Sunrise to deliver intelligent ITSM automation and insights.
+I’m a Technical Operations leader with over two decades of experience working across IT Service Management, cloud platforms and applied AI in complex, real-world environments.
 
-**Production-ready AI systems include:**
+My background spans operational leadership, platform modernisation and hands-on technical work, with a focus on building reliable service operations, scalable platforms and responsible AI-assisted workflows. I’m particularly interested in how modern data and AI techniques can support — rather than complicate — service delivery and decision-making.
 
-- ⚡ **Auto-Triage** — intelligent ticket categorisation and routing  
-- 📝 **Smart Resolution** — AI-guided fixes, responses, and knowledge capture  
-- 📚 **Knowledge Creator** — automated documentation from resolved incidents  
-- 🧠 **Complaint & Root-Cause Analysis** — AI-driven insight into customer and operational trends  
-- 🔍 **Vector Search RAG Systems** — semantic search using Azure AI Search  
-- 💬 **Feedback Sentiment Analysis** — NLP engine for large-scale review analysis  
-- 🛠️ **Field Service QA Compliance System** — AI-first regulatory platform for multi-trade field operations  
-- 📺 **Modern Wallboard Application** — real-time dashboards for ITSM & field-service teams  
+This GitHub profile is used to share personal projects, experiments and examples that reflect my interests and professional approach. 
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🔍 Focus Areas
 
-Leading the simplification and modernisation of a long-standing IBM-hosted SaaS environment towards Azure.
+- **Applied AI in Operational Environments**  
+  Using AI where it improves consistency, insight or efficiency without introducing unnecessary risk or opacity.
 
-Work includes:  
-- Azure App Services & Static Web Apps  
-- Azure OpenAI (GPT‑4.1, GPT‑5 series, embeddings, vision, whisper)  
-- Azure SQL modernisation  
-- Networking, VNETs, routing, NSGs, redis  
-- Monitoring & alerting (PRTG, Azure Monitor)  
-- DR & BCP uplift  
-- Cost modelling & architectural redesign  
+- **Service Operations & Reliability**  
+  Treating incidents, knowledge, tooling and people as a connected system, with resilience and recoverability as first-class concerns.
 
----
+- **Cloud & Platform Modernisation**  
+  Exploring pragmatic approaches to modernising platforms while protecting customers, service levels and operational stability.
 
-## 🧪 Software Engineering
+- **Data Quality & Governance**  
+  Emphasising clean data, clear structure and governance as prerequisites for automation and analytics.
 
-Building APIs, backend services, data pipelines, and automation using:
-
-Python · Node.js · TypeScript · C# (.NET) · SQL Server
-
-**Recent engineering work includes:**
-
-- 🛠️ Field Service QA Compliance System  
-- 💬 Feedback Sentiment Analysis Engine  
-- 📺 Modern Wallboard System  
-- 🔄 ETL & embedding pipelines for Azure AI Search  
-- 📦 AI microservices (Flask, FastAPI, Node)  
-- 🔌 Enterprise integration for ITSM and field operations  
+- **Explainability & Trust in AI**  
+  Focusing on transparency, auditability and human oversight in AI-assisted systems, especially in regulated or customer-facing contexts.
 
 ---
 
-## 🧩 Current Projects
+## 🛠️ Technical Domains
 
-| Project | Description |
-|--------|-------------|
-| **Azure Migration Programme** | Cost modelling, architecture, readiness assessment |
-| **Solvyr™ AI Product Suite** | Commercialising and expanding AI-powered ITSM tools |
-| **AI Ops Insights** | Vector-driven dashboards for customer pain points |
-| **Your Local Mechanic** | Automotive platform (Next.js, Tailwind, MySQL, VRM lookup) |
-| **Field Service Resolution & QA** | AI-first modernisation of field-service systems |
-| **Real-Time Wallboards** | Live dashboards for SLAs & performance |
+- **Service Operations & ITSM**  
+  Incident, problem and knowledge management • operational reporting • service reliability
 
----
+- **Cloud & Platforms**  
+  Cloud-native architectures • platform operations • infrastructure modernisation
 
-## 🛠️ Tech Stack
+- **Applied AI & Data**  
+  AI-assisted analysis • semantic search concepts • data pipelines • operational analytics
 
-### Languages & Frameworks  
-Python · Node.js · TypeScript · C# · SQL  
-React · Next.js · Flask · .NET  
-
-### Cloud & AI  
-Microsoft Azure · Azure OpenAI · Azure AI Search · Power Platform  
-
-### Databases  
-SQL Server · Azure SQL · MySQL · PostgreSQL · Vector stores  
-
-### DevOps & Tooling  
-GitHub Actions · VS Code · Cursor IDE · Docker · Kudu  
-SSRS · PRTG · Azure Monitor  
+- **Engineering Practices**  
+  API design • automation • DevOps principles • maintainable system design
 
 ---
+## 🧰 Technology Stack & Experience
 
-## 🎯 Vision for 2026
+A selection of technologies and platforms I’ve worked with across service operations, cloud platforms and applied AI projects. 
 
-- 🚀 Launch **XXX v2.0** — the next-generation AI-native ITSM platform  
-- 🧠 Productise Solvyr across the customer base  
-- 🏗️ Build a scalable multi-tenant SaaS architecture  
-- 🔁 Integrate AI feedback loops into every operational process  
-- 📉 Reduce ticket volume through deep AI insights  
-- 🌐 Make applied AI a core capability across Sunrise  
+### ☁️ Cloud & Platforms
+- Cloud-native application platforms  
+- Platform operations and reliability engineering  
+- Infrastructure-as-code and automated delivery practices  
+- Identity, access and security fundamentals  
 
----
+### 🤖 Applied AI & Data
+- AI-assisted analysis and decision support  
+- Semantic search and retrieval concepts  
+- Data pipelines and transformation workflows  
+- Responsible AI, explainability and governance  
 
-## 📘 Currently Learning
+### 🗄️ Data & Storage
+- Relational databases and operational data stores  
+- Search and indexing technologies  
+- Data modelling for analytics and reporting  
 
-- Azure enterprise architecture  
-- Production-grade RAG pipelines  
-- Multi-tenant SaaS patterns  
-- Workflow automation with AI  
-- Productising internal AI tools  
+### 🔧 Engineering & Delivery
+- API design and integration  
+- Automation and background processing  
+- CI/CD principles and release management  
+- Observability, logging and operational metrics  
+
+### 🖥️ Web & User Interfaces
+- Modern web application frameworks  
+- Mobile-first and accessible UI design  
+- State management and client-side data handling  
+
+### 🧭 Service Operations & ITSM
+- Incident, problem and knowledge management  
+- SLA monitoring and operational reporting  
+- Workflow automation and service optimisation  
+
+## 📦 Repositories
+
+Public repositories here represent:
+- Personal projects and experiments  
+- Small-scale demos and proofs of concept  
+- Learning exercises and exploratory work  
 
 ---
 
@@ -122,4 +99,8 @@ SSRS · PRTG · Azure Monitor
 
 If you're working in ITSM, SaaS, field services, or applied AI — happy to connect or collaborate.
 
+- 🌐 Website: [https://chriscarswell.co.uk](https://chriscarswell.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-c-80b367150/)
+
+---
+> *This profile reflects my personal experience and interests. Views and content here are my own and do not represent the strategy, products or intellectual property of any organisation.*
