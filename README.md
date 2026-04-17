@@ -1,84 +1,79 @@
 # Chris Carswell
-
-### Technical Operations & AI Leader  
-*Cloud Platforms • SaaS Operations • Applied AI in ITSM*
+### Technical Operations & Applied AI
+*Shipping AI in ITSM • Cloud platforms • SaaS operations*
 
 ---
 
 ## 👋 About
 
-Two decades in IT Service Management, cloud platforms, and applied AI. I lead technical operations teams, modernise legacy platforms, and build AI-assisted workflows that solve real problems — including Solvyr, an applied AI engine for ITSM that I designed and shipped to production.
+Thirty years in IT Service Management, the last two spent shipping applied AI into production. I run technical operations, modernise legacy platforms, and build AI systems that solve operational problems analysts actually have, not the ones that demo well.
 
-My focus is AI that improves service delivery when applied thoughtfully: better triage, smarter knowledge systems, assisted resolution — without sacrificing explainability, governance, or human oversight.
+Most of my recent work has gone into **Solvyr**, an applied AI engine for ITSM that I designed and built from scratch. It's live, paying its way, and used daily — which informs almost everything I write here about what works and what doesn't.
 
-This GitHub profile shares personal projects, experiments, and examples that reflect my professional interests and approach.
-
----
-
-## 🔍 What Drives My Work
-
-**Pragmatic over theoretical** — Solutions that work in production, not just in demos.
-
-**Reliability before new capability** — Uptime and recovery matter more than features.
-
-**Data quality before automation** — Clean data enables everything; dirty data breaks everything.
-
-**Explainability in AI** — If analysts don't trust it, they won't use it.
-
-**Clear operational accountability** — Technology serves people and processes, not the other way around.
+Before all of this I co-founded Rightio, scaled it from a £5k investment to £15M turnover, and exited in 2023. That experience shaped how I think about technology: it has to earn its keep.
 
 ---
 
-## 🛠️ What I Do
+## 🚀 Solvyr — Applied AI for ITSM
 
-### AI & Machine Learning
-Azure OpenAI integration • RAG architecture & vector search • Semantic search & retrieval • AI system design • Agentic workflows • Prompt engineering • Model evaluation
+A suite of AI capabilities built into the Sostenuto ITSM platform, shipped over twelve months:
 
-### ITSM & Service Operations
-ITIL framework • Incident/problem/knowledge management • Service desk optimisation • Process automation • SLA monitoring • Operational reporting
+- **Auto Triage** — ticket classification at 99.8% accuracy in production
+- **Smart Resolution** — RAG-powered resolution matching with Cohere Rerank 4 and HyDE query transformation
+- **Knowledge Creator** — AI-assisted article generation from resolved tickets
+- **Comms Boost, Survey Sentiment, Call Intel, Vault, Shield, Hype, Studio** — and more
 
-### Cloud & Platform Engineering
-Azure infrastructure • Kubernetes & containerisation • CI/CD pipelines • Terraform & IaC • DevOps practices • Platform migration & modernisation
+Built on Azure OpenAI and Azure AI Foundry. Ranked first of 47 businesses in our portfolio AI Maturity Assessment.
 
-### Development & APIs
-Python • React/Next.js • Node.js • TypeScript • REST APIs • PostgreSQL • SQL Server • Microservices architecture
-
----
-
-## 🧰 What I Use
-
-| Domain | Technologies |
-|--------|-------------|
-| **AI & ML** | Azure OpenAI • RAG Architecture • Vector Search • Prompt Engineering • NLP • Agentic Workflows |
-| **Cloud & Infra** | Azure Services • Kubernetes • Docker • Terraform • CI/CD • Cloud Architecture |
-| **Development** | Python • React/Next.js • Node.js • TypeScript • REST APIs • PostgreSQL • SQL Server |
-| **ITSM** | ITIL Framework • Incident/Problem/Change Management • Service Desk Ops • Knowledge Management |
-| **Digital** | Technical SEO • Generative Engine Optimisation • Google Analytics • PPC • Mobile-First UX |
+The lesson from twelve months of shipping: the model is the easy bit. Data quality, governance, and analyst trust are where the real work lives.
 
 ---
 
-## 📦 What You'll Find Here
+## 🔍 How I Think About This Work
 
-This profile contains:
+**Pragmatic over theoretical.** Solutions that hold up in production, not just in demos.
 
-- Personal projects exploring AI integration patterns
-- Proof-of-concept work and architectural experiments
-- Patterns and approaches I'm validating outside of production
-- Code that reflects how I think about solving operational problems
+**Reliability before new capability.** Uptime and recovery matter more than the next feature.
 
-Most of my professional work is proprietary, so public repositories here represent personal exploration rather than production systems.
+**Data quality before automation.** Clean data enables everything; dirty data breaks everything, faster with AI.
+
+**Explainability or it doesn't ship.** If analysts can't see why the model decided what it decided, they won't trust it, and they're right not to.
+
+**Governance is a feature, not a tax.** ISO 27001, audit trails, human-in-the-loop. The boring stuff is what makes the interesting stuff usable.
+
+**Technology serves people and process.** Not the other way around. Ever.
+
+---
+
+## 🛠️ What I Work With
+
+| Domain | Stack |
+|--------|-------|
+| **Applied AI** | Azure OpenAI, Azure AI Foundry, Anthropic Claude, RAG architecture, vector search, Cohere Rerank, HyDE, prompt engineering, model evaluation, agentic workflows |
+| **Cloud & Infra** | Azure (migrated from IBM Cloud), Kubernetes, Docker, Terraform, CI/CD, cloud architecture |
+| **Development** | Python, TypeScript, React/Next.js, Node.js, REST APIs, PostgreSQL, SQL Server |
+| **ITSM** | ITIL, incident/problem/change/knowledge management, service desk operations, SLA design |
+| **Ways of working** | Spec-driven development with Cursor + Claude, rapid iteration, evaluation-led AI delivery |
+
+---
+
+## 📦 What's In Here
+
+Solvyr and most of my day-job work is proprietary, so this profile is the public-facing slice: personal projects, proof-of-concept work, and patterns I'm validating outside of production. Expect AI integration experiments, architectural sketches, and the occasional thing built to scratch a personal itch.
+
+If you want to see how I actually think about applied AI in production, my writing on it lives at [chriscarswell.co.uk](https://chriscarswell.co.uk).
 
 ---
 
 ## 💬 Connect
 
-If you're working on ITSM platforms, SaaS operations, cloud modernisation, or practical AI — happy to connect.
+If you're working on ITSM platforms, SaaS operations, cloud modernisation, or putting AI into production properly, happy to talk.
 
-🌐 **Website:** [chriscarswell.co.uk](https://chriscarswell.co.uk)  
+🌐 **Website:** [chriscarswell.co.uk](https://chriscarswell.co.uk)
 🧭 **Strategy:** [chriscarswell.co.uk/strategy](https://chriscarswell.co.uk/strategy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherjcarswell/)
 
 ---
 
-> *This profile reflects my personal experience and interests. Views and content are my own and do not represent any organisation's strategy, products, or intellectual property.*
+> *Views and content here are my own and do not represent any organisation's strategy, products, or intellectual property.*
